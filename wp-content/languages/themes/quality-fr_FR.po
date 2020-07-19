@@ -1,0 +1,576 @@
+# Translation of Themes - Quality in French (France)
+# This file is distributed under the same license as the Themes - Quality package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-26 14:33:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Quality\n"
+
+#. Theme Name of the theme
+#: admin/tab-pages/free_vs_pro.php:86
+msgid "Quality"
+msgstr "Quality"
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Multiple Color Schemes"
+msgstr "Nombreux jeux de couleurs"
+
+#: theme_setup_data.php:20 child_theme_compatible.php:20
+msgid "Our awesome services"
+msgstr "Nos formidables services"
+
+#: admin/tab-pages/useful_plugins.php:11
+msgid "Why should you upgrade to PRO?"
+msgstr "Pourquoi vous devriez passer à la version PRO ?"
+
+#: admin/tab-pages/useful_plugins.php:89
+msgid "Quality comes with 9 preset color schemes and you can also create your own palettes using the Custom Color Setting in the Customizer."
+msgstr "Quality propose 9 jeux de couleurs prédéfinis et vous pouvez même créer votre propre jeu de couleur favori en utilisant le réglage de couleurs personnalisée dans l’outil de personnalisation."
+
+#: admin/tab-pages/useful_plugins.php:71
+msgid "This section is often used to display content like: Latest news, Announcements or Events."
+msgstr "Cette section est souvent utilisée pour afficher du contenu tel que : Nouveautés, annonces ou évènements."
+
+#: admin/tab-pages/useful_plugins.php:43
+msgid "You can create unlimited slides, which can be controlled by the settings found in Appearance > Customize."
+msgstr "Vous pouvez créer des diaporamas illimités que vous pouvez contrôler avec les réglages disponibles dans Apparence > Personnaliser."
+
+#: admin/tab-pages/useful_plugins.php:34
+msgid "There are beautifully styled navigation/menus in Quality. You can create sub menus and make multi level menus."
+msgstr "Vous trouverez des menus/navigation joliment stylisés dans le thème Quality. Vous pouvez créer des menus multi-niveaux, ce qui signifie que vous pouvez créer des sous-menus."
+
+#: admin/tab-pages/useful_plugins.php:25
+msgid "You can customize your header section and you can add Contact info details and social media icons in the Top Section of the header."
+msgstr "Vous pouvez personnaliser votre section d’en-tête et vous pouvez ajouter des informations de contact ainsi que des icônes de réseaux sociaux dans la section haute de l’en-tête."
+
+#: admin/tab-pages/useful_plugins.php:17
+msgid "Quality comes with two types of layout: a boxed one and a full-width layout. You can easily switch between them in Appearance > Customize."
+msgstr "Quality est fourni avec deux types de mises en page : une encadrée et une en pleine largeur. Vous pouvez facilement basculer entre elles dans Apparence > Personnaliser."
+
+#: admin/tab-pages/free_vs_pro.php:142
+msgid "PRO Support Forum"
+msgstr "Forum de support PRO"
+
+#: admin/tab-pages/free_vs_pro.php:130
+msgid "Full-Width layout & Boxed layout"
+msgstr "Mise en page en pleine largeur et encadrée"
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "About Us, Services, Portfolios, Blogs with left and right sidebars or full-width, full-width pages, Contact forms and much more."
+msgstr "À propos de nous, des services, des portfolios, des blogs avec des colonnes latérales à gauche et à droite ou en pleine largeur, des pages en pleines largeur, des formulaires de contact et bien plus encore."
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid "A top header, unlimited sliders, unlimited services, unlimited portfolios, latest news, clients, testimonials, custom widgets"
+msgstr "En-tête haut, diaporamas illimités, services illimités, appels à l’action, portfolios illimités, dernières nouvelles, clients, témoignages et widgets personnalisés."
+
+#: admin/tab-pages/free_vs_pro.php:98
+msgid "Full-Width Layout"
+msgstr "Mise en page en pleine largeur"
+
+#: admin/tab-pages/free_vs_pro.php:92
+msgid "A Slider with 1 static image, 3 Services, 4 Portfolios, Latest News"
+msgstr "Un diaporama avec 1 image statique, 3 services, 4 portfolios et les nouveautés"
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "You can use WPML to make your website multilingual."
+msgstr "Vous pouvez utiliser WPML pour rendre votre site multilingue."
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "Supports WPML"
+msgstr "Prise en charge de WPML"
+
+#: admin/tab-pages/free_vs_pro.php:50
+msgid "Show team members and other custom content just by adding it in the WordPress editor."
+msgstr "Affichez les membres de votre équipe et du contenu personnalisé via l’éditeur WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Enjoy any if the 9 preset color schemes, or create your own, without adding any code."
+msgstr "Appréciez l’utilisation de 9 jeux de couleurs prédéfinis. Vous pouvez également créer vos propres jeux sans ajouter de code."
+
+#: admin/tab-pages/free_vs_pro.php:36
+msgid "Display all of your information on a single page: the Parallax effect provides you a captivating scrolling experience."
+msgstr "Affichez toutes vos informations sur une seule page : L’effet Parallax vous fournit une expérience de défilement captivante."
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "Ce thème prend en charge l’extension Contact Form 7. Utilisez-la pour construire votre formulaire de contact."
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Quality supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "Quality contient des options de mise en page encadrée ainsi qu’en pleine largeur. Pour choisir celle que vous préférez (et basculer entre les deux) allez dans Apparence > Personnaliser."
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "The Quality PRO theme includes various page templates."
+msgstr "Le thème Quality PRO inclus différents modèles de page."
+
+#: theme_setup_data.php:40 theme_setup_data.php:42 theme_setup_data.php:44
+#: theme_setup_data.php:46 child_theme_compatible.php:40
+#: child_theme_compatible.php:42 child_theme_compatible.php:44
+#: child_theme_compatible.php:46
+msgid "Business cards"
+msgstr "Cartes d’entreprise"
+
+#: theme_setup_data.php:38 child_theme_compatible.php:38
+msgid "Most popular of our works."
+msgstr "Nos réalisations les plus populaires."
+
+#: theme_setup_data.php:26 child_theme_compatible.php:26
+msgid "A great value"
+msgstr "Une grande valeur"
+
+#: theme_setup_data.php:25 child_theme_compatible.php:25
+msgid "Friendly Support"
+msgstr "Support convivial"
+
+#: theme_setup_data.php:24 child_theme_compatible.php:24
+msgid "Global Customer Base"
+msgstr "Base de clients globale"
+
+#: theme_setup_data.php:23 child_theme_compatible.php:23
+msgid "Beautiful Design"
+msgstr "Conception superbe"
+
+#: search.php:16
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: search.php:15
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: theme_setup_data.php:17 child_theme_compatible.php:17
+#: functions/customizer/customizer-slider.php:94
+msgid "Create beautiful websites, 100% responsive and easy to customize."
+msgstr "Créez de superbes sites, 100% responsives et simples à personnaliser."
+
+#: theme_setup_data.php:16 child_theme_compatible.php:16
+#: functions/customizer/customizer-slider.php:79
+msgid "Welcome to Quality theme"
+msgstr "Bienvenue dans le thème Quality"
+
+#: theme_setup_data.php:15 child_theme_compatible.php:15
+#: functions/customizer/customizer-slider.php:64
+msgid "Elegant design"
+msgstr "Conception élégante"
+
+#: admin/tab-pages/useful_plugins.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Construire un site avec nos widgets personnalisés est très simple. Placez les juste dans la colonne latérale disponible ou même dans le contenu."
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "Help Section"
+msgstr "Section d’aide"
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "You can display any number of services on the Homepage, with thousands of Font Awesome icons available. You can also display a set of services on a separate page by using the Service page template."
+msgstr "Vous pouvez afficher n’importe quel nombre de services sur la page d’accueil, avec des milliers d’icônes Font Awesome disponibles. Vous pouvez aussi afficher un ensemble de services sur une page séparée en utilisant le modèle de page Service."
+
+#: admin/tab-pages/useful_plugins.php:24
+msgid "Top Header Section"
+msgstr "Section d’en-tête haute"
+
+#: admin/tab-pages/getting-started.php:75
+msgid "Premium Theme Details"
+msgstr "Détails du thème premium"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Your feedback is valuable to us"
+msgstr "Votre avis nous est précieux"
+
+#: admin/tab-pages/getting-started.php:65
+msgid "PRO Demo"
+msgstr "Démo PRO"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "On the WordPress.org support forum"
+msgstr "Sur le forum de support WordPress.org"
+
+#: admin/tab-pages/free_vs_pro.php:97
+msgid "Business Template and Full-Width Template"
+msgstr "Modèle d’entreprise et modèle en pleine largeur"
+
+#: admin/tab-pages/free_vs_pro.php:58
+msgid "Show user's feedback in the Homepage."
+msgstr "Affichez vos retours client sur la page d’accueil."
+
+#: admin/tab-pages/free_vs_pro.php:57
+msgid "Testimonial / Review Section"
+msgstr "Section Témoignage / Avis"
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid "Show all your services in a single place."
+msgstr "Afficher tous vos services à un seul endroit."
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Services Page"
+msgstr "Page Services"
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid "About Us Page"
+msgstr "Page À propos de nous"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Mise en page responsive sur tous les périphériques"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Vous trouverez un certain nombre de sections sur la page d’accueil."
+
+#: functions/menu/default_menu_walker.php:17
+#: functions/breadcrumbs/breadcrumbs.php:34
+#: functions/breadcrumbs/breadcrumbs.php:40
+msgid "Home"
+msgstr "Accueil"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "État"
+
+#: admin/inc/plugin-include-control.php:41 admin/inc/include-companion.php:43
+#: admin/inc/class-webriti-about-page.php:74
+#: functions/customizer-notify/quality-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: functions/customizer/customizer_recommended_plugin.php:21
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: admin/inc/class-webriti-about-page.php:432
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Activate"
+msgstr "Activer"
+
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: admin/inc/class-webriti-about-page.php:310
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: functions/customizer/customizer-slider.php:16
+msgid "Slider settings"
+msgstr "Réglages du diaporama"
+
+#: functions/customizer/customizer-blog.php:8
+msgid "Recent Blog setting"
+msgstr "Réglages de blog récent"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "Page en pleine largeur"
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr "Zone de widgets de colonne latérale"
+
+#: functions/customizer/customizer-slider.php:133
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: functions/customizer/customizer-slider.php:117
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: functions/customizer/customizer-slider.php:85
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: functions/customizer/customizer-blog.php:85
+#: functions/customizer/customizer-slider.php:100
+msgid "Description"
+msgstr "Description"
+
+#: functions/customizer/customizer-slider.php:53
+msgid "Image"
+msgstr "Image"
+
+#: functions/customizer/customizer-blog.php:68
+#: functions/customizer/customizer-slider.php:70
+msgid "Title"
+msgstr "Titre"
+
+#: theme_setup_data.php:49 child_theme_compatible.php:49
+#: functions/customizer/customizer-blog.php:59
+msgid "Our latest blog posts"
+msgstr "Nos derniers articles de blog"
+
+#: functions/customizer/customizer-blog.php:28
+msgid "Enable Home Blog section"
+msgstr "Activer la section de blog sur l’accueil"
+
+#: comments.php:54
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: comments.php:37
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire"
+
+#: admin/inc/class-webriti-about-page.php:305
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#: admin/inc/class-webriti-about-page.php:114
+msgid "View Theme Info"
+msgstr "Voir les infos du thème"
+
+#: admin/tab-pages/useful_plugins.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Le thème prend en charge une autre extension célèbre : WPML. Grâce à celle-ci vous pouvez créer un site disponible en plusieurs langues."
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "Prêt à être traduit"
+
+#: admin/tab-pages/useful_plugins.php:106
+msgid "Custom widget "
+msgstr "Widget personnalisé"
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "We provide good knowledge-base articles to help you create effective websites. You can visit these articles through our"
+msgstr "Nous fournissons de bons articles de base de connaissance qui vous aideront à créer des sites efficaces. Vous pouvez découvrir ces articles dans notre "
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Well Documented"
+msgstr "Bien documenté"
+
+#: admin/tab-pages/useful_plugins.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Les témoignages sont une méthode puissante pour gagner en crédibilité. Vous pouvez afficher les témoignages avec un effet de carrousel."
+
+#: admin/tab-pages/useful_plugins.php:78
+msgid "Testimonial Feature"
+msgstr "Fonctionnalité de témoignage"
+
+#: admin/tab-pages/useful_plugins.php:70
+msgid "Latest News Section"
+msgstr "Section de dernières nouvelles"
+
+#: admin/tab-pages/useful_plugins.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Mettez en avant n’importe quel nombre de projets. Ce thème est fourni avec une option pour créer des mises en page en grille sur 2, 3 ou 4 colonnes en utilisant respectivement les modèles de mise en page 2, 3 ou 4 colonnes. Si vous avez un nombre de projets à présenter alors ces modèles sont la réponse. Vous pouvez aussi créer des portfolios catégorisés affichant toutes les catégories de portfolio dans un endroit unique. En fait nous avons codé ce thème pour que vous puissiez créer n’importe quel nombre de portfolios différents."
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "Portfolio Features"
+msgstr "Fonctionnalités de portfolio"
+
+#: admin/tab-pages/useful_plugins.php:51
+msgid "Service Features"
+msgstr "Fonctionnalités de service"
+
+#: admin/tab-pages/useful_plugins.php:42
+msgid "Caption Slider"
+msgstr "Légende du diaporama"
+
+#: admin/tab-pages/useful_plugins.php:33
+msgid "Multi Level Navigation"
+msgstr "Navigation multi-niveaux"
+
+#: admin/tab-pages/useful_plugins.php:16
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: admin/tab-pages/getting-started.php:61
+msgid "Lite Demo"
+msgstr "Démo Lite"
+
+#: admin/tab-pages/getting-started.php:55
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+#: admin/tab-pages/free_vs_pro.php:152
+msgid "Get Quality PRO Now!"
+msgstr "Obtenez Quality PRO maintenant !"
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "Quality PRO"
+msgstr "Quality PRO"
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtenez un support instantané 24/7 sur notre forum."
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Customize the style without adding any code."
+msgstr "Personnalisez le style sans ajouter du code."
+
+#: admin/tab-pages/free_vs_pro.php:62
+#: functions/customizer/customizer-pro-feature.php:54
+msgid "Typography Settings"
+msgstr "Réglages de la typographie"
+
+#: admin/tab-pages/free_vs_pro.php:46
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Présenter votre collection de projet/portfolio avec des mises en page en 2, 3 et 4 colonnes. Vous pouvez aussi afficher vos projets/portfolios par catégorie."
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Affichez l’emplacement de votre boutique et de votre entreprise sur votre site en utilisant Google Maps."
+
+#: admin/tab-pages/useful_plugins.php:88
+msgid "Mulitple Color Schemes"
+msgstr "Nombreux jeux de couleurs"
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Parallax Effect"
+msgstr "Effet Parallax"
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "Support de formulaire de contact"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Compatibilité mobile"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "Options de mise en page"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "Support des modèles de page"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Sections de page d’accueil"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: theme_setup_data.php:18 child_theme_compatible.php:18
+#: functions/customizer/customizer-slider.php:110
+msgid "Get this theme"
+msgstr "Obtenir ce thème"
+
+#: functions/widget/custom-sidebar.php:17
+#: functions/widget/custom-sidebar.php:19
+msgid "Footer widget area"
+msgstr "Zone de widgets de pied de page"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Modèle d’entreprise"
+
+#: admin/tab-pages/free_vs_pro.php:42
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: functions.php:116
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:97
+msgid "Page"
+msgstr "Page"
+
+#: theme_setup_data.php:37 child_theme_compatible.php:37
+msgid "Featured portfolio projects"
+msgstr "Portfolio de projets mis en avant"
+
+#: functions/customizer/customizer-copyright.php:33
+msgid "Copyright text"
+msgstr "Texte de Copyright"
+
+#: functions/customizer/customizer-copyright.php:16
+msgid "Footer copyright settings"
+msgstr "Réglages du droit d’auteur du pied de page"
+
+#: functions/commentbox/comment-function.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions/commentbox/comment-function.php:20
+msgid "at"
+msgstr "à"
+
+#: functions/commentbox/comment-function.php:11
+msgid "Reply"
+msgstr "Réponse"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Laisser une réponse"
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Connecté·e en tant que"
+
+#: comments.php:52
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:44
+msgid "Email"
+msgstr "Options de messagerie"
+
+#: comments.php:43
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Pr&eacute;c&eacute;dents"
+
+#: comments.php:26
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Veuillez le saisir pour pouvoir lire ses commentaires."
+
+#: index-blog.php:52 functions.php:159 content.php:37
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: functions/breadcrumbs/breadcrumbs.php:88
+msgid "Error 404"
+msgstr "erreur 404"
+
+#. Author URI of the theme
+msgid "https://webriti.com/"
+msgstr "https://webriti.com/"
+
+#. Author of the theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/quality-lite-version-details-page/"
+msgstr "https://webriti.com/quality-lite-version-details-page/"
